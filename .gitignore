@@ -1,0 +1,16 @@
+# Logs
+[Ll]ogs/
+*.logs
+
+# Configurations
+[Cc]onfiguration/
+*.config
+
+# binaries
+node_modules/
+*.exe
+
+# backups/temps
+*.backup
+[Tt]emp/
+plik .gitignore
